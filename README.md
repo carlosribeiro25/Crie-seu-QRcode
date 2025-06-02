@@ -36,3 +36,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues, sugerir 
 🙌 Agradecimentos
 Obrigado por visitar este repositório! Se este projeto foi útil para você, deixe uma ⭐ no GitHub e compartilhe com outras pessoas.
 Se ele foi útil de alguma forma, considere deixar uma ⭐ aqui no GitHub — isso ajuda bastante no crescimento e visibilidade do projeto.
+
+Orientador: Luan oliveira .
